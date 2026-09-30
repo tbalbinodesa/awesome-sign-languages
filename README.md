@@ -1,10 +1,27 @@
+---
+layout: default
+title: English — Awesome Sign Languages
+---
+
 # Awesome Sign Languages
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[Português (Brasil)](README.pt-BR.md) | **English**
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll('a[href$=".md"]').forEach((link) => {
+    link.href = link.href.replace(/\.md$/, ".html");
+  });
+});
+</script>
+
 A curated directory of high-quality sign language resources: dictionaries, learning materials, linguistic references, corpora, and software. Sign languages are full natural languages with their own grammars and communities—not universal versions of spoken languages. They must be named precisely: **Libras** is the Brazilian Sign Language, used in Brazil, and is distinct from Portuguese and from other sign languages.
 
 This list is intentionally selective. Inclusion is based on clear provenance, usefulness, and fit for the stated purpose, not popularity or search ranking. A resource can be free to access without its data being free to download or reuse; check each project's terms.
+
+> **Language-specific starting point:** This English version presents ASL resources first. For a Portuguese-language guide that presents Libras resources first, use the [Português (Brasil) version](README.pt-BR.md). The language of this document is not a translation direction: ASL and Libras are different languages.
 
 ## Contents
 
