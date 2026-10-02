@@ -1,0 +1,24 @@
+name: Validate content
+
+# Guardrails for the guides: the data must be complete in both languages and the
+# README files must be exactly what tools/build.py generates from it.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate data and check generated guides are up to date
+        run: python3 tools/build.py --check
+      - name: Run tests
+        run: python3 -m unittest discover -s tests -v

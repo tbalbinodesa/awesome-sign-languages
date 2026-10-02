@@ -1,0 +1,190 @@
+{
+  "en": [
+    {
+      "title": "Learning and teaching",
+      "subsections": [
+        {
+          "title": "American Sign Language (ASL)",
+          "ids": ["asl-connect", "clerc-learning-asl"]
+        }
+      ]
+    },
+    {
+      "title": "Dictionaries and lexical resources",
+      "subsections": [
+        {
+          "title": "American Sign Language (ASL)",
+          "ids": ["asl-signbank", "asl-lex"]
+        }
+      ]
+    },
+    {
+      "title": "Linguistics and reference",
+      "subsections": [
+        {
+          "title": "American Sign Language (ASL)",
+          "ids": ["linguistics-of-asl", "slaash"]
+        }
+      ]
+    },
+    {
+      "title": "Corpora and datasets",
+      "subsections": [
+        {
+          "title": "American Sign Language (ASL)",
+          "ids": ["youtube-asl", "openasl"]
+        }
+      ]
+    },
+    {
+      "title": "Software and research tools",
+      "subsections": [
+        {
+          "title": "General-purpose",
+          "ids": ["elan"]
+        }
+      ]
+    },
+    {
+      "title": "Libras resources",
+      "intro": "The resources below cover **Libras (Brazilian Sign Language)**. They are grouped here so learners, researchers, families, and developers do not mistake ASL materials or Portuguese-language interfaces for Libras resources. Most entries are in Portuguese, because that is the language of the Brazilian Deaf community's institutions; the entries explain what each one offers.\n\n> Links checked on **2 October 2026**. Not every deaf or hard-of-hearing person in Brazil uses Libras; this list covers resources **in and about Libras**.",
+      "subsections": [
+        {
+          "title": "Free Libras courses",
+          "ids": ["evg-intro-libras", "ifro-libras-edu", "ifsul-libras-1", "poca-ufscar-libras", "lumina-comunicacao-para-todos"],
+          "after": "Online courses help you start but do not replace time with the Deaf community. For fluency, seek classes and events with fluent Deaf signers."
+        },
+        {
+          "title": "Deaf creators",
+          "intro": "Free content in Libras. For YouTube channels we checked for recent uploads. A creator is described as Deaf only when they say so on their channel or a news article states it.",
+          "ids": ["yt-isflocos", "yt-leo-viturinno", "yt-fabio-de-sa", "yt-tikinho-ramon", "yt-nathalia-da-silva"]
+        },
+        {
+          "title": "Institutions and projects",
+          "ids": ["yt-ines", "yt-libras-e-saude", "yt-na-palma-da-mao", "yt-dlibras-unir", "ifrs-em-libras", "canal-libras-mec", "tv-ines-archive"]
+        },
+        {
+          "title": "Libras lessons alongside paid courses",
+          "ids": ["yt-moreno-libras"]
+        },
+        {
+          "title": "Learning and sharing",
+          "ids": ["ines-debasi", "ines-repository", "manuario"]
+        },
+        {
+          "title": "Dictionaries and lexical documentation",
+          "ids": ["ines-dictionary", "ufv-dictionary", "signbank-libras"],
+          "after": "Libras has regional variation, like any language. If a sign differs from what you know, ask Deaf signers from your region."
+        },
+        {
+          "title": "Books, journals, and bilingual materials",
+          "ids": ["uff-cvcs", "arara-azul", "ines-publications-portal", "revista-espaco", "ines-publications"]
+        },
+        {
+          "title": "Institutions, rights, and dates",
+          "ids": ["ines", "feneis", "lei-10436", "decreto-5626", "lei-14191"],
+          "after": "- **24 April — National Libras Day** ([Lei nº 13.055/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13055.htm)) and **26 September — National Deaf People's Day** ([Lei nº 11.796/2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/L11796.htm)). September is \"Setembro Azul\" campaign month; see [how FENEIS marks Deaf Day](https://feneis.org.br/feneis-celebra-o-dia-do-surdo-com-orgulho/)."
+        },
+        {
+          "title": "Linguistics, corpora, and datasets",
+          "ids": ["corpus-libras"]
+        },
+        {
+          "title": "Software, access, and collaboration",
+          "ids": ["vlibras-suite", "vlibras-widget-docs", "wikilibras", "hand-talk"],
+          "after": "> [!IMPORTANT]\n> VLibras and Hand Talk render content **from Portuguese to Libras** with avatars; they are not bidirectional Portuguese–Libras interpreters and do not replace a human interpreter. They should not be the sole access provision in classes, legal proceedings, health care, public-service interactions, or other high-stakes communication. Verify regional and contextual appropriateness with Libras users."
+        }
+      ]
+    }
+  ],
+  "pt-BR": [
+    {
+      "title": "Recursos de Libras",
+      "intro": "Os recursos abaixo cobrem **Libras (Língua Brasileira de Sinais)**. Estão agrupados aqui para que estudantes, pesquisadores, famílias e desenvolvedores não confundam materiais de ASL ou interfaces em português com recursos de Libras.\n\n> Links conferidos em **2 de outubro de 2026**. Se algum link estiver quebrado ou desatualizado, [avise por aqui](https://github.com/tbalbinodesa/awesome-sign-languages/issues/new?template=sugerir-recurso.yml).\n>\n> Nem toda pessoa surda ou com deficiência auditiva usa Libras. Esta lista reúne recursos **em Libras e sobre Libras**.",
+      "subsections": [
+        {
+          "title": "Por onde começar",
+          "intro": "| Eu quero... | Vá para |\n| --- | --- |\n| Aprender Libras do zero, de graça | [Cursos gratuitos](#cursos-gratuitos-de-libras) e [Canais de ensino](#canais-e-criadores) |\n| Ver conteúdo feito por pessoas Surdas | [Canais e criadores](#canais-e-criadores) |\n| Procurar o sinal de uma palavra | [Dicionários e documentação lexical](#dicionarios) |\n| Ler livros e artigos sobre Libras e Cultura Surda | [Livros, revistas e materiais bilíngues](#livros) |\n| Entender os direitos das pessoas Surdas | [Instituições, direitos e datas](#instituicoes) |\n| Fazer pesquisa ou criar tecnologia | [Linguística, corpus e dados](#linguistica) e [Software](#software) |",
+          "ids": []
+        },
+        {
+          "title": "Cursos gratuitos de Libras",
+          "ids": ["evg-intro-libras", "ifro-libras-edu", "ifsul-libras-1", "poca-ufscar-libras", "lumina-comunicacao-para-todos"],
+          "after": "> [!NOTE]\n> Cursos online gratuitos ajudam a começar, mas não substituem a convivência com a comunidade Surda. Para fluência, procure aulas e eventos com pessoas Surdas fluentes em Libras."
+        },
+        {
+          "title": "Criadores Surdos",
+          "anchor": "canais-e-criadores",
+          "intro": "Conteúdo gratuito em Libras. Nos canais do YouTube, conferimos se há vídeos recentes. Só dizemos que um criador é Surdo quando ele mesmo diz isso no canal ou quando uma reportagem informa.",
+          "ids": ["yt-isflocos", "yt-leo-viturinno", "yt-fabio-de-sa", "yt-tikinho-ramon", "yt-nathalia-da-silva"]
+        },
+        {
+          "title": "Instituições e projetos",
+          "ids": ["yt-ines", "yt-libras-e-saude", "yt-na-palma-da-mao", "yt-dlibras-unir", "ifrs-em-libras", "canal-libras-mec", "tv-ines-archive"]
+        },
+        {
+          "title": "Aulas de Libras com cursos pagos",
+          "ids": ["yt-moreno-libras"]
+        },
+        {
+          "title": "Aprender e compartilhar",
+          "ids": ["ines-debasi", "ines-repository", "manuario"]
+        },
+        {
+          "title": "Dicionários e documentação lexical",
+          "anchor": "dicionarios",
+          "ids": ["ines-dictionary", "ufv-dictionary", "signbank-libras"],
+          "after": "> [!TIP]\n> Libras tem variação regional, como qualquer língua. Se um sinal não é igual ao que você conhece, pergunte a Surdos da sua região."
+        },
+        {
+          "title": "Livros, revistas e materiais bilíngues",
+          "anchor": "livros",
+          "ids": ["uff-cvcs", "arara-azul", "ines-publications-portal", "revista-espaco", "ines-publications"]
+        },
+        {
+          "title": "Instituições, direitos e datas",
+          "anchor": "instituicoes",
+          "ids": ["ines", "feneis", "lei-10436", "decreto-5626", "lei-14191"],
+          "after": "- **24 de abril — Dia Nacional da Libras** ([Lei nº 13.055/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13055.htm)) e **26 de setembro — Dia Nacional dos Surdos** ([Lei nº 11.796/2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/L11796.htm)). Setembro é o mês de campanhas do **Setembro Azul**; veja [como a FENEIS celebra o Dia do Surdo](https://feneis.org.br/feneis-celebra-o-dia-do-surdo-com-orgulho/)."
+        },
+        {
+          "title": "Linguística, corpus e dados",
+          "anchor": "linguistica",
+          "ids": ["corpus-libras"]
+        },
+        {
+          "title": "Software, acesso e colaboração",
+          "anchor": "software",
+          "ids": ["vlibras-suite", "vlibras-widget-docs", "wikilibras", "hand-talk"],
+          "after": "> [!IMPORTANT]\n> VLibras e Hand Talk apresentam conteúdo **do português para Libras** por avatar; não são intérpretes bidirecionais Português–Libras e não substituem um intérprete humano. Não devem ser a única medida de acessibilidade em aulas, processos judiciais, serviços de saúde, serviços públicos ou outras comunicações de alto impacto. Valide a adequação regional e contextual com usuários de Libras."
+        }
+      ]
+    },
+    {
+      "title": "Recursos de ASL",
+      "intro": "Os recursos abaixo cobrem **ASL (American Sign Language / Língua de Sinais Americana)**. ASL não é Libras e não é uma língua de sinais universal.",
+      "subsections": [
+        {
+          "title": "Aprendizagem e ensino",
+          "ids": ["asl-connect", "clerc-learning-asl"]
+        },
+        {
+          "title": "Dicionários, léxico e pesquisa",
+          "ids": ["asl-signbank", "asl-lex", "linguistics-of-asl", "slaash"]
+        },
+        {
+          "title": "Corpus e conjuntos de dados",
+          "ids": ["youtube-asl", "openasl"]
+        }
+      ]
+    },
+    {
+      "title": "Ferramentas gerais de pesquisa",
+      "subsections": [
+        {
+          "ids": ["elan"]
+        }
+      ]
+    }
+  ]
+}

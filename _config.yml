@@ -1,4 +1,11 @@
 title: Awesome Sign Languages
-description: Curated, language-specific resources for learning, researching, and sharing sign languages.
+description: Lista de recursos gratuitos de Libras e outras línguas de sinais - cursos, canais de pessoas Surdas, dicionários, livros e instituições. Curated, language-specific sign language resources.
+lang: pt-BR
 theme: jekyll-theme-cayman
 markdown: kramdown
+# Build inputs and tooling are not part of the published site.
+exclude:
+  - data
+  - templates
+  - tools
+  - tests

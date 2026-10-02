@@ -1,0 +1,25 @@
+name: Check links
+
+# Dead links erode trust in a curated list. Check them whenever the resource list
+# changes and weekly, since sites disappear without a commit here.
+
+on:
+  pull_request:
+    paths:
+      - data/resources.json
+      - tools/check_links.py
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Check resource URLs
+        run: python3 tools/check_links.py

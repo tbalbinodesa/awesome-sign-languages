@@ -1,0 +1,74 @@
+name: Sugerir um recurso / Suggest a resource
+description: Indique um canal, curso, site, dicionário, projeto ou pessoa que produz conteúdo gratuito em Libras.
+title: "[Sugestão] "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar! Escreva do jeito que for mais fácil. Frases curtas são ótimas.
+        Você não precisa saber Markdown. Se preferir, pode colar só o link e responder o que souber.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do recurso
+      description: Nome do canal, curso, site, projeto ou pessoa.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link oficial
+      description: Endereço (URL) do canal, site ou perfil oficial.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Canal ou perfil (YouTube, Instagram, TikTok)
+        - Curso gratuito
+        - Universidade, instituto ou grupo de pesquisa
+        - Dicionário ou banco de sinais
+        - Site, aplicativo ou ferramenta
+        - Livro, revista ou material de leitura
+        - Associação, evento ou iniciativa
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que o recurso oferece?
+      description: Para quem é? O conteúdo é em Libras, em português com legenda ou com intérprete?
+    validations:
+      required: true
+  - type: dropdown
+    id: gratuito
+    attributes:
+      label: É gratuito?
+      options:
+        - Sim, tudo é gratuito
+        - Parte é gratuita (conteúdo gratuito e cursos pagos, certificado pago etc.)
+        - Não sei
+    validations:
+      required: true
+  - type: dropdown
+    id: surdo
+    attributes:
+      label: Quem produz o conteúdo?
+      description: Isso ajuda a comunidade a entender a origem do recurso. Só marque o que você sabe.
+      options:
+        - Pessoas Surdas (projeto liderado por Surdos)
+        - Universidade, instituto ou governo
+        - Equipe mista (Surdos e ouvintes)
+        - Não sei
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Mais alguma informação?
+      description: Está atualizado? Tem alguma limitação (regional, incompleto)? Pode escrever em português ou em inglês.

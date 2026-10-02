@@ -1,0 +1,732 @@
+{
+  "resources": [
+    {
+      "id": "asl-connect",
+      "url": "https://gallaudet.edu/asl-connect/topics/",
+      "languages": ["ase"],
+      "maintainer": "Gallaudet University",
+      "access": "free",
+      "en": {
+        "name": "ASL Connect – ASL by Topic",
+        "description": "Free basic American Sign Language (ASL) vocabulary videos and self-paced lessons from Gallaudet University. Vocabulary support, not a substitute for interactive instruction."
+      },
+      "pt-BR": {
+        "name": "ASL Connect – ASL por tópico",
+        "description": "Vídeos gratuitos de vocabulário básico de ASL e aulas autoinstrucionais da Gallaudet University. É apoio de vocabulário, não substitui instrução interativa."
+      }
+    },
+    {
+      "id": "clerc-learning-asl",
+      "url": "https://clerccenter.gallaudet.edu/ndec/educational-resources/learning-asl/",
+      "languages": ["ase"],
+      "maintainer": "Clerc Center, Gallaudet University",
+      "access": "free",
+      "en": {
+        "name": "Learning American Sign Language",
+        "description": "Clerc Center's guide to learning ASL, classes, and educational resources; explains the language's grammar and why in-person community practice matters."
+      },
+      "pt-BR": {
+        "name": "Learning American Sign Language",
+        "description": "Guia do Clerc Center sobre como aprender ASL, encontrar cursos e usar recursos educacionais; explica a gramática da língua e por que a prática presencial na comunidade é importante."
+      }
+    },
+    {
+      "id": "asl-signbank",
+      "url": "https://aslsignbank.com/",
+      "languages": ["ase"],
+      "maintainer": "University of Connecticut and Gallaudet University",
+      "access": "free-with-registration",
+      "en": {
+        "name": "ASL Signbank",
+        "description": "Research-maintained ASL lexical resource from University of Connecticut and Gallaudet University. Public users can browse signs and translation equivalents; some data requires registration and approval. Intended for fluent signers and linguistic annotation, not a beginner course."
+      },
+      "pt-BR": {
+        "name": "ASL Signbank",
+        "description": "Recurso lexical de ASL mantido para pesquisa pela University of Connecticut e pela Gallaudet University. Usuários públicos podem navegar por sinais e equivalentes de tradução; alguns dados exigem cadastro e aprovação. Destina-se a sinalizantes fluentes e anotação linguística, não a um curso para iniciantes."
+      }
+    },
+    {
+      "id": "asl-lex",
+      "url": "https://asl-lex.org/",
+      "languages": ["ase"],
+      "maintainer": "ASL-LEX.org project",
+      "access": "free",
+      "en": {
+        "name": "ASL-LEX",
+        "description": "Research database documenting lexical and phonological properties of 2,723 ASL signs, with video references and searchable visualizations. Database reuse is noncommercial (CC BY-NC 4.0); reference videos are excluded from that license."
+      },
+      "pt-BR": {
+        "name": "ASL-LEX",
+        "description": "Banco de dados de pesquisa sobre propriedades lexicais e fonológicas de 2.723 sinais de ASL, com vídeos de referência e visualizações pesquisáveis. A reutilização do banco é não comercial (CC BY-NC 4.0); os vídeos de referência não estão incluídos nessa licença."
+      }
+    },
+    {
+      "id": "linguistics-of-asl",
+      "url": "https://gupress.gallaudet.edu/Books/L/Linguistics-of-American-Sign-Language2",
+      "languages": ["ase"],
+      "maintainer": "Gallaudet University Press",
+      "access": "paid",
+      "en": {
+        "name": "The Linguistics of American Sign Language",
+        "description": "Gallaudet University Press textbook on ASL structure and linguistics (fifth edition). A scholarly reference; the book is not a free resource."
+      },
+      "pt-BR": {
+        "name": "The Linguistics of American Sign Language",
+        "description": "Livro da Gallaudet University Press sobre estrutura e linguística de ASL (quinta edição). É uma referência acadêmica e não é um recurso gratuito."
+      }
+    },
+    {
+      "id": "slaash",
+      "url": "https://gallaudet.edu/american-sign-language/sign-language-annotation-archiving-and-sharing-slaash/",
+      "languages": ["ase"],
+      "maintainer": "Gallaudet University",
+      "access": "free",
+      "en": {
+        "name": "Sign Language Annotation, Archiving and Sharing (SLAASh)",
+        "description": "Gallaudet project and conventions supporting sign language video annotation, archiving, and sharing."
+      },
+      "pt-BR": {
+        "name": "Sign Language Annotation, Archiving and Sharing (SLAASh)",
+        "description": "Projeto e convenções da Gallaudet para anotação, arquivamento e compartilhamento de vídeo em língua de sinais."
+      }
+    },
+    {
+      "id": "youtube-asl",
+      "url": "https://github.com/google-research/google-research/tree/master/youtube_asl",
+      "languages": ["ase"],
+      "maintainer": "Google Research",
+      "access": "free",
+      "en": {
+        "name": "YouTube-ASL",
+        "description": "Google Research dataset of ASL videos with English captions, reviewed by Deaf annotators for video quality and caption alignment. The release provides video IDs, not the videos; availability, caption quality, and platform rights can vary. See the project paper and terms before research use."
+      },
+      "pt-BR": {
+        "name": "YouTube-ASL",
+        "description": "Conjunto de dados do Google Research com vídeos de ASL e legendas em inglês, revisados por anotadores surdos quanto à qualidade do vídeo e ao alinhamento das legendas. O lançamento fornece IDs de vídeo, não os vídeos; disponibilidade, qualidade de legenda e direitos na plataforma podem variar. Consulte o artigo e os termos antes de uso em pesquisa."
+      }
+    },
+    {
+      "id": "openasl",
+      "url": "https://github.com/chevalierNoir/OpenASL",
+      "languages": ["ase"],
+      "maintainer": "Bowen Shi, Diane Brentari, Greg Shakhnarovich and Karen Livescu",
+      "access": "free",
+      "en": {
+        "name": "OpenASL",
+        "description": "Research dataset and code for open-domain ASL-to-English translation. Access and reuse are subject to its noncommercial, no-derivatives license; check the repository for current terms and dataset limitations."
+      },
+      "pt-BR": {
+        "name": "OpenASL",
+        "description": "Dados e código de pesquisa para tradução de ASL para inglês em domínio aberto. O acesso e a reutilização estão sujeitos a licença não comercial e sem derivados; confira os termos atuais e as limitações no repositório."
+      }
+    },
+    {
+      "id": "elan",
+      "url": "https://archive.mpi.nl/mpi/elan",
+      "languages": [],
+      "language_independent": true,
+      "maintainer": "Max Planck Institute for Psycholinguistics",
+      "access": "free",
+      "en": {
+        "name": "ELAN",
+        "description": "Professional annotation tool for audio and video, widely used in language research and compatible with sign language lexicons such as ASL Signbank. Free and open source under GPL-3.0; review its license and documentation."
+      },
+      "pt-BR": {
+        "name": "ELAN",
+        "description": "Ferramenta profissional para anotação de áudio e vídeo, muito usada em pesquisa linguística e compatível com léxicos de línguas de sinais como ASL Signbank e Signbank Libras. É gratuita, de código aberto sob GPL-3.0; consulte a licença e a documentação."
+      }
+    },
+    {
+      "id": "ines-repository",
+      "url": "http://repositorio.ines.gov.br/ilustra/",
+      "insecure_http": true,
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Repositório Digital do INES",
+        "description": "Instituto Nacional de Educação de Surdos (INES) repository of Libras educational materials. Browse the metadata and license for each item before downloading or reusing it; formats and accessibility features vary by resource."
+      },
+      "pt-BR": {
+        "name": "Repositório Digital do INES",
+        "description": "Repositório do Instituto Nacional de Educação de Surdos (INES) com materiais educacionais em Libras. Consulte os metadados e a licença de cada item antes de baixar ou reutilizar: os formatos e recursos de acessibilidade variam."
+      }
+    },
+    {
+      "id": "manuario",
+      "url": "https://manuario.ines.gov.br/",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Manuário Acadêmico e Escolar",
+        "description": "INES's subject-organized collection of Libras signs for school and academic contexts. Its signs are collected, validated with Deaf INES teachers and academic-community representatives, then recorded in studio; useful for specialized vocabulary, not a complete general dictionary."
+      },
+      "pt-BR": {
+        "name": "Manuário Acadêmico e Escolar",
+        "description": "Coleção do INES, organizada por área de conhecimento, de sinais em Libras para contextos escolares e acadêmicos. Os sinais são coletados, validados com professores surdos do INES e representantes da comunidade acadêmica e gravados em estúdio; é útil para vocabulário especializado, não um dicionário geral completo."
+      }
+    },
+    {
+      "id": "ines-dictionary",
+      "url": "https://dicionario.ines.gov.br/",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Dicionário da Língua Brasileira de Sinais — INES",
+        "description": "Searchable Libras dictionary from INES with videos, Portuguese examples and senses, subjects, grammatical classes, and sign-origin information."
+      },
+      "pt-BR": {
+        "name": "Dicionário da Língua Brasileira de Sinais — INES",
+        "description": "Dicionário pesquisável de Libras do INES com vídeos, exemplos e acepções em português, assuntos, classes gramaticais e informações sobre a origem dos sinais."
+      }
+    },
+    {
+      "id": "signbank-libras",
+      "url": "https://signbank.levantelab.com.br/pt/about",
+      "languages": ["bzs"],
+      "maintainer": "UFSC-linked project (Levante Lab platform)",
+      "access": "free",
+      "en": {
+        "name": "Signbank Libras",
+        "description": "UFSC-linked, open-access Libras signbank connected to the Global Signbank and Libras Corpus. Supports lexical and linguistic research and can link to ELAN; it is a research lexicon rather than a prescriptive authority for every regional variant."
+      },
+      "pt-BR": {
+        "name": "Signbank Libras",
+        "description": "Banco de sinais de Libras, de acesso aberto e ligado à UFSC, conectado ao Global Signbank e ao Corpus de Libras. Apoia pesquisa lexical e linguística e pode ser vinculado ao ELAN; é um léxico de pesquisa, não uma autoridade prescritiva para todas as variações regionais."
+      }
+    },
+    {
+      "id": "corpus-libras",
+      "url": "https://corpuslibras.ufsc.br/?lang=en",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal de Santa Catarina (UFSC)",
+      "access": "free",
+      "en": {
+        "name": "Corpus de Libras",
+        "description": "UFSC's openly accessible Libras corpus with video, photos, data, metadata, and documentation guidelines. Designed for linguistic research, professional work, and preservation; follow its access conditions and participant/data-use guidance."
+      },
+      "pt-BR": {
+        "name": "Corpus de Libras",
+        "description": "Corpus de Libras da UFSC, de acesso aberto, com vídeos, fotos, dados, metadados e diretrizes de documentação. Destina-se à pesquisa linguística, ao trabalho profissional e à preservação; siga suas condições de acesso e orientações de uso de dados e participantes."
+      }
+    },
+    {
+      "id": "vlibras-suite",
+      "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras",
+      "languages": ["bzs"],
+      "maintainer": "Brazilian Federal Government and UFPB/LAVID",
+      "access": "free",
+      "translation": { "direction": "Brazilian Portuguese to Libras", "output": "avatar" },
+      "en": {
+        "name": "Suíte VLibras",
+        "description": "Brazilian government and UFPB/LAVID free, open-source accessibility suite that automatically renders digital Portuguese content in Libras with a 3D avatar. Includes web, desktop, and mobile tools."
+      },
+      "pt-BR": {
+        "name": "Suíte VLibras",
+        "description": "Suíte de acessibilidade brasileira, gratuita e de código aberto, do Governo Federal e da UFPB/LAVID, que apresenta automaticamente conteúdo digital em português em Libras por meio de avatar 3D. Inclui ferramentas para web, desktop e dispositivos móveis."
+      }
+    },
+    {
+      "id": "vlibras-widget-docs",
+      "url": "https://vlibras.gov.br/doc/widget/introduction/presentation.html",
+      "languages": ["bzs"],
+      "maintainer": "Brazilian Federal Government and UFPB/LAVID",
+      "access": "free",
+      "translation": { "direction": "Brazilian Portuguese to Libras", "output": "avatar" },
+      "en": {
+        "name": "VLibras Widget documentation",
+        "description": "Official integration guide for adding the Portuguese-to-Libras accessibility widget to a website."
+      },
+      "pt-BR": {
+        "name": "Documentação do Widget VLibras",
+        "description": "Guia oficial de integração do recurso de acessibilidade Português–Libras em sites."
+      }
+    },
+    {
+      "id": "wikilibras",
+      "url": "https://wiki.vlibras.gov.br/",
+      "languages": ["bzs"],
+      "maintainer": "Brazilian Federal Government and UFPB/LAVID",
+      "access": "free",
+      "en": {
+        "name": "WikiLibras",
+        "description": "Collaborative VLibras platform for consulting signs and proposing or reviewing signs, translations, and avatar animations. Contributions enter the suite only after its expert review process."
+      },
+      "pt-BR": {
+        "name": "WikiLibras",
+        "description": "Plataforma colaborativa do VLibras para consultar sinais e propor ou revisar sinais, traduções e animações de avatar. As contribuições só entram na suíte após o processo de revisão por especialistas."
+      }
+    },
+    {
+      "id": "evg-intro-libras",
+      "url": "https://www.escolavirtual.gov.br/curso/11",
+      "languages": ["bzs"],
+      "maintainer": "Enap (Escola Nacional de Administração Pública)",
+      "access": "free-with-registration",
+      "en": {
+        "name": "Introdução à Libras — Escola Virtual.Gov",
+        "description": "60-hour course from Enap with content from Brazil's Ministry of Human Rights and Citizenship. Open, free, and certified; anyone can enroll and has 60 days to finish. Covers Deaf culture, legislation, fingerspelling, numbers, classifiers, and basic vocabulary."
+      },
+      "pt-BR": {
+        "name": "Introdução à Libras — Escola Virtual.Gov",
+        "description": "Curso de 60 horas da Enap, com conteúdo do Ministério dos Direitos Humanos e da Cidadania. É aberto, gratuito e com certificado, e qualquer pessoa pode se inscrever; o aluno tem 60 dias para concluir. Aborda Cultura Surda, legislação, alfabeto manual, números, classificadores e vocabulário básico."
+      }
+    },
+    {
+      "id": "ifro-libras-edu",
+      "url": "https://mooc.ifro.edu.br/mod/page/view.php?id=858",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Federal de Rondônia (IFRO)",
+      "access": "free-with-registration",
+      "en": {
+        "name": "LibrasEdu — IFRO MOOC",
+        "description": "Open online course from the Federal Institute of Rondônia, free for everyone. Approved participants issue their digital certificate within the platform."
+      },
+      "pt-BR": {
+        "name": "LibrasEdu — MOOC do IFRO",
+        "description": "Curso online aberto do Instituto Federal de Rondônia, gratuito para todos. Quem é aprovado emite o certificado digital na própria plataforma."
+      }
+    },
+    {
+      "id": "ifsul-libras-1",
+      "url": "https://mundi.ifsul.edu.br/portal/libras-I.php",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Federal Sul-rio-grandense (IFSul)",
+      "access": "free-with-registration",
+      "en": {
+        "name": "Libras I — Mundi, IFSul",
+        "description": "40-hour beginner course with no prerequisites on IFSul's free online course platform: four modules on Deaf culture and identity, fingerspelling, numbers, introductions, classifiers, and basic sign lists."
+      },
+      "pt-BR": {
+        "name": "Libras I — Mundi, IFSul",
+        "description": "Curso básico de 40 horas, sem pré-requisitos, na plataforma de cursos online gratuitos do IFSul. Quatro módulos com vídeos e atividades sobre cultura e identidade Surda, alfabeto manual, números, apresentações, classificadores e sinalários básicos."
+      }
+    },
+    {
+      "id": "poca-ufscar-libras",
+      "url": "https://cursos.poca.ufscar.br/local/staticpage/view.php?page=49",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal de São Carlos (UFSCar)",
+      "access": "free-with-registration",
+      "en": {
+        "name": "Introdução aos estudos da Libras — PoCA, UFSCar",
+        "description": "30-hour course on UFSCar's open-course portal: Deaf studies, sociocultural views of deafness, grammar basics, and first steps in communication. Check the course page for certificate terms."
+      },
+      "pt-BR": {
+        "name": "Introdução aos estudos da Libras — PoCA, UFSCar",
+        "description": "Curso de 30 horas no Portal de Cursos Abertos da UFSCar: estudos Surdos, a surdez como questão sociocultural, noções de gramática e comunicação inicial. Veja na página do curso as condições de certificado."
+      }
+    },
+    {
+      "id": "lumina-comunicacao-para-todos",
+      "url": "https://lumina.ufrgs.br/course/view.php?id=593",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "access": "free-with-registration",
+      "en": {
+        "name": "Comunicação para TODOS — Lúmina, UFRGS",
+        "description": "Free 10-hour course in Portuguese and Libras on communication accessibility tools. This offering does not issue a certificate."
+      },
+      "pt-BR": {
+        "name": "Comunicação para TODOS — Lúmina, UFRGS",
+        "description": "Curso gratuito de 10 horas, em português e Libras, sobre recursos de acessibilidade na comunicação. Esta oferta não emite certificado."
+      }
+    },
+    {
+      "id": "yt-isflocos",
+      "url": "https://www.youtube.com/@isflocos",
+      "languages": ["bzs"],
+      "maintainer": "Gabriel Isaac (Isflocos), Deaf creator",
+      "access": "free",
+      "en": {
+        "name": "Isflocos — Gabriel Isaac",
+        "description": "Gabriel Isaac introduces himself on the channel as Deaf, a multi-artist, and a content creator; he talks about Deaf life and culture. [News profile](https://jornalarua.com/2025/10/22/influencer-de-sp-gabriel-isaac-abre-os-planos-para-a-cultura-surda-no-brasil-em-2026/)."
+      },
+      "pt-BR": {
+        "name": "Isflocos — Gabriel Isaac",
+        "description": "No canal, Gabriel Isaac se apresenta como Surdo, multiartista e criador de conteúdo. Fala sobre o mundo Surdo e cultura. [Matéria sobre o trabalho dele](https://jornalarua.com/2025/10/22/influencer-de-sp-gabriel-isaac-abre-os-planos-para-a-cultura-surda-no-brasil-em-2026/)."
+      }
+    },
+    {
+      "id": "yt-leo-viturinno",
+      "url": "https://www.youtube.com/channel/UCR_-CWbo1ZhNsQLyzKJL7DA",
+      "languages": ["bzs"],
+      "maintainer": "Léo Viturinno, Deaf creator",
+      "access": "free",
+      "en": {
+        "name": "Léo Viturinno",
+        "description": "Deaf creator (per [this list](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)). Vlogs, films and series, culture, and a \"Curso Básico de Libras\" lesson series, captioned in Portuguese."
+      },
+      "pt-BR": {
+        "name": "Léo Viturinno",
+        "description": "Criador Surdo (segundo [esta lista](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)). Vlogs, filmes e séries, cultura e uma série de aulas de \"Curso Básico de Libras\", com legendas em português."
+      }
+    },
+    {
+      "id": "yt-fabio-de-sa",
+      "url": "https://www.youtube.com/@FabiodesaTV",
+      "languages": ["bzs"],
+      "maintainer": "Fábio de Sá, Deaf poet and Libras teacher",
+      "access": "free",
+      "en": {
+        "name": "Fábio de Sá TV",
+        "description": "Channel of Fábio de Sá, who describes himself as a Deaf poet, Visual Vernacular artist, actor, narrator, and Libras teacher. Videos in Libras."
+      },
+      "pt-BR": {
+        "name": "Fábio de Sá TV",
+        "description": "O canal se apresenta como de Fábio de Sá, poeta Surdo, artista de Visual Vernacular, ator, narrador e professor de Libras. Publica vídeos em Libras."
+      }
+    },
+    {
+      "id": "yt-tikinho-ramon",
+      "url": "https://www.youtube.com/channel/UC4-wQT4oiakr0WtwaxN8DoQ",
+      "languages": ["bzs"],
+      "maintainer": "Lucas Ramon (Tikinho), Deaf designer and cartoonist",
+      "access": "free",
+      "en": {
+        "name": "Tikinho Ramon",
+        "description": "Lucas Ramon, a Deaf designer and cartoonist (per [this list](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)); shares his drawings, exhibitions, and travels."
+      },
+      "pt-BR": {
+        "name": "Tikinho Ramon",
+        "description": "Lucas Ramon, designer e cartunista Surdo (segundo [esta lista](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)). Mostra seus desenhos, exposições e viagens."
+      }
+    },
+    {
+      "id": "yt-nathalia-da-silva",
+      "url": "https://www.youtube.com/channel/UCx_js_0y1GOpSnM7v4h5Xrg",
+      "languages": ["bzs"],
+      "maintainer": "Nathalia da Silva, Deaf creator",
+      "access": "free",
+      "en": {
+        "name": "Nathalia da Silva",
+        "description": "Deaf creator (per [this list](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)) with beauty and everyday-life videos."
+      },
+      "pt-BR": {
+        "name": "Nathalia da Silva",
+        "description": "Criadora Surda (segundo [esta lista](https://blog.inboarding.co/12-canais-de-youtube-em-libras/)) com vídeos de beleza e do dia a dia."
+      }
+    },
+    {
+      "id": "yt-ines",
+      "url": "https://www.youtube.com/@ines.oficial",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "INES — official channel",
+        "description": "Channel of the National Institute of Deaf Education with institutional videos such as events and admissions information in Libras."
+      },
+      "pt-BR": {
+        "name": "INES — canal oficial",
+        "description": "Canal do Instituto Nacional de Educação de Surdos com vídeos da instituição, como eventos e informações sobre o vestibular em Libras."
+      }
+    },
+    {
+      "id": "yt-libras-e-saude",
+      "url": "https://www.youtube.com/channel/UC3Ge3vQ6r-j6VKnWaTl76AQ",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal de Santa Catarina (UFSC)",
+      "access": "free",
+      "en": {
+        "name": "Libras e Saúde — UFSC",
+        "description": "UFSC project with Libras videos, captioned in Portuguese, on health (Brazil's public health system, vaccination, hypertension, diabetes, and more) for Deaf signers. See the [project page](https://librasesaude.paginas.ufsc.br/producoes/inicio/)."
+      },
+      "pt-BR": {
+        "name": "Libras e Saúde — UFSC",
+        "description": "Projeto da UFSC com vídeos em Libras e legendas em português sobre saúde (SUS, vacinação, hipertensão, diabetes e mais), pensados para Surdos sinalizantes. A [página do projeto](https://librasesaude.paginas.ufsc.br/producoes/inicio/) tem a lista completa."
+      }
+    },
+    {
+      "id": "yt-na-palma-da-mao",
+      "url": "https://www.youtube.com/channel/UCBsQvVszGY7KdxvbUCMRHfg",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal do Espírito Santo (UFES), LISIT research group",
+      "access": "free",
+      "en": {
+        "name": "Na Palma da Mão — UFES",
+        "description": "Channel of UFES's LISIT research group with education, culture, health, and legal content in Libras."
+      },
+      "pt-BR": {
+        "name": "Na Palma da Mão — UFES",
+        "description": "Canal do grupo LISIT, da Universidade Federal do Espírito Santo, com conteúdo educacional, de cultura, saúde e direito em Libras."
+      }
+    },
+    {
+      "id": "yt-dlibras-unir",
+      "url": "https://www.youtube.com/channel/UC2C0o7Elijx39JkAY6I_BXg",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal de Rondônia (UNIR), Departamento Acadêmico de Libras",
+      "access": "free",
+      "en": {
+        "name": "DLibras — UNIR",
+        "description": "Channel of the Libras Department at the Federal University of Rondônia, including the accessible [podcast \"Um minuto, um direito delas\"](https://www.unir.br/cartao/exibir/298)."
+      },
+      "pt-BR": {
+        "name": "DLibras — UNIR",
+        "description": "Canal do Departamento Acadêmico de Libras da Universidade Federal de Rondônia, com vídeos de projetos como o [podcast acessível \"Um minuto, um direito delas\"](https://www.unir.br/cartao/exibir/298)."
+      }
+    },
+    {
+      "id": "ifrs-em-libras",
+      "url": "https://ifrs.edu.br/ifrs-em-libras/",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Federal do Rio Grande do Sul (IFRS)",
+      "access": "free",
+      "en": {
+        "name": "IFRS em Libras",
+        "description": "Federal Institute of Rio Grande do Sul channel with institutional information, admissions, teaching materials, and glossaries in Libras."
+      },
+      "pt-BR": {
+        "name": "IFRS em Libras",
+        "description": "Canal do Instituto Federal do Rio Grande do Sul com informações do instituto, processos seletivos, materiais didáticos e glossários em Libras."
+      }
+    },
+    {
+      "id": "canal-libras-mec",
+      "url": "https://www.gov.br/mec/pt-br/canal-libras",
+      "languages": ["bzs"],
+      "maintainer": "Ministério da Educação (MEC)",
+      "access": "free",
+      "en": {
+        "name": "Canal Libras — MEC",
+        "description": "Ministry of Education channel with programming for Deaf audiences, from early childhood through higher education."
+      },
+      "pt-BR": {
+        "name": "Canal Libras — MEC",
+        "description": "Canal do Ministério da Educação, com programação voltada à comunidade Surda, da educação infantil ao ensino superior."
+      }
+    },
+    {
+      "id": "tv-ines-archive",
+      "url": "https://debasi.ines.gov.br/tv-ines",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "TV INES (archive)",
+        "description": "Archive of Brazil's first web TV in Libras (launched 24 April 2013), with captions and Portuguese voice-over. Programs on education, interviews, humor, and children's content remain available; the TV no longer produces new content."
+      },
+      "pt-BR": {
+        "name": "TV INES (arquivo)",
+        "description": "Acervo da primeira web TV em Libras do Brasil, lançada em 24 de abril de 2013, com legendas e locução em português. Os programas (educação, entrevistas, humor e infantil) continuam disponíveis, mas a TV não produz mais conteúdo novo."
+      }
+    },
+    {
+      "id": "yt-moreno-libras",
+      "url": "https://www.youtube.com/@morenolibras",
+      "languages": ["bzs"],
+      "maintainer": "Moreno Libras",
+      "access": "free",
+      "en": {
+        "name": "Moreno Libras",
+        "description": "Active Libras lessons channel. Offers free lessons on YouTube and also sells courses."
+      },
+      "pt-BR": {
+        "name": "Moreno Libras",
+        "description": "Canal ativo de aulas de Libras. Oferece aulas gratuitas no YouTube e também vende cursos."
+      }
+    },
+    {
+      "id": "ines-debasi",
+      "url": "https://debasi.ines.gov.br/",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES), Educação Básica",
+      "access": "free",
+      "en": {
+        "name": "DEBASI — INES Basic Education",
+        "description": "Site of INES's school of application with bilingual materials for Deaf children, teenagers, and adults: activities, Libras storybook videos, sign lists, projects, and TV INES videos."
+      },
+      "pt-BR": {
+        "name": "DEBASI — Educação Básica do INES",
+        "description": "Site do Colégio de Aplicação do INES com materiais bilíngues para crianças, adolescentes e adultos Surdos: atividades, videolivros com histórias em Libras, sinalários, projetos e vídeos da TV INES."
+      }
+    },
+    {
+      "id": "ufv-dictionary",
+      "url": "https://sistemas.cead.ufv.br/capes/dicionario/",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal de Viçosa (UFV)",
+      "access": "free",
+      "en": {
+        "name": "Dicionário de Libras — UFV",
+        "description": "Online dictionary from the Federal University of Viçosa with basic regional signs. Search by word, topic, sign list, or handshape."
+      },
+      "pt-BR": {
+        "name": "Dicionário de Libras — UFV",
+        "description": "Dicionário on-line da Universidade Federal de Viçosa com sinais regionais básicos. Permite buscar por palavra, tema, sinalário ou configuração de mão."
+      }
+    },
+    {
+      "id": "uff-cvcs",
+      "url": "https://libras.uff.br/centro-virtual-de-cultura-surda/",
+      "languages": ["bzs"],
+      "maintainer": "Universidade Federal Fluminense (UFF) with Editora Arara Azul",
+      "access": "free",
+      "en": {
+        "name": "Centro Virtual de Cultura Surda — UFF",
+        "description": "With Editora Arara Azul, free e-books on teaching Libras as a first language, teacher and interpreter training, lexicon, and translation, plus a scientific journal, academic notebooks, and a digital library with Libras literature and adapted classics. The site also has a glossary and video lessons."
+      },
+      "pt-BR": {
+        "name": "Centro Virtual de Cultura Surda — UFF",
+        "description": "Reúne, em parceria com a Editora Arara Azul, e-books gratuitos sobre o ensino de Libras como primeira língua, formação de professores e intérpretes, léxico e tradução, além de revista científica, cadernos acadêmicos e uma biblioteca digital com literatura em Libras e obras clássicas adaptadas. O site da UFF também tem glossário e vídeo-aulas."
+      }
+    },
+    {
+      "id": "arara-azul",
+      "url": "https://editora-arara-azul.com.br/e-books/",
+      "languages": ["bzs"],
+      "maintainer": "Editora Arara Azul",
+      "access": "free",
+      "en": {
+        "name": "Editora Arara Azul",
+        "description": "Publisher of materials on bilingual education, Libras, and Deaf Studies. Its e-book page points to the UFF site above."
+      },
+      "pt-BR": {
+        "name": "Editora Arara Azul",
+        "description": "Editora de materiais sobre educação bilíngue, Libras e Estudos Surdos. A página dos e-books remete ao site da UFF acima."
+      }
+    },
+    {
+      "id": "ines-publications-portal",
+      "url": "https://seer.ines.gov.br/",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Portal de Publicações do INES",
+        "description": "Open-access portal for journals, books, and materials published by INES."
+      },
+      "pt-BR": {
+        "name": "Portal de Publicações do INES",
+        "description": "Portal com periódicos, livros e materiais publicados pelo INES, de acesso aberto."
+      }
+    },
+    {
+      "id": "revista-espaco",
+      "url": "https://seer.ines.gov.br/index.php/revista-espaco",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Revista Espaço — INES",
+        "description": "INES academic journal (founded 1990) on Deaf education, Libras, Deaf literature, and language policy."
+      },
+      "pt-BR": {
+        "name": "Revista Espaço — INES",
+        "description": "Revista acadêmica do INES, criada em 1990, sobre educação de Surdos, Libras, literatura Surda e políticas linguísticas."
+      }
+    },
+    {
+      "id": "ines-publications",
+      "url": "https://www.gov.br/ines/pt-br/central-de-conteudos/publicacoes-1/todas-as-publicacoes",
+      "languages": ["bzs"],
+      "maintainer": "Instituto Nacional de Educação de Surdos (INES)",
+      "access": "free",
+      "en": {
+        "name": "Publicações do INES — gov.br",
+        "description": "List of INES institutional publications, including bilingual pedagogy materials."
+      },
+      "pt-BR": {
+        "name": "Publicações do INES — gov.br",
+        "description": "Lista de publicações institucionais do INES, incluindo materiais de pedagogia bilíngue."
+      }
+    },
+    {
+      "id": "ines",
+      "url": "https://www.gov.br/ines/pt-br",
+      "languages": ["bzs"],
+      "maintainer": "Ministério da Educação (MEC)",
+      "access": "free",
+      "en": {
+        "name": "INES — National Institute of Deaf Education",
+        "description": "Federal reference institution for Deaf education, founded in 1857 and part of the Ministry of Education."
+      },
+      "pt-BR": {
+        "name": "INES — Instituto Nacional de Educação de Surdos",
+        "description": "Instituição federal de referência em educação de Surdos, criada em 1857 e ligada ao Ministério da Educação."
+      }
+    },
+    {
+      "id": "feneis",
+      "url": "https://feneis.org.br/o-que-e/",
+      "languages": ["bzs"],
+      "maintainer": "FENEIS",
+      "access": "free",
+      "en": {
+        "name": "FENEIS — National Federation of Deaf Education and Integration",
+        "description": "Nonprofit founded in 1987 that defends language policy, education, culture, employment, health, and rights of the Brazilian Deaf community, with regional offices in several states."
+      },
+      "pt-BR": {
+        "name": "FENEIS — Federação Nacional de Educação e Integração dos Surdos",
+        "description": "Entidade filantrópica sem fins lucrativos, fundada em 1987, que defende políticas linguísticas, educação, cultura, emprego, saúde e direitos da comunidade Surda brasileira. Tem regionais em vários estados."
+      }
+    },
+    {
+      "id": "lei-10436",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm",
+      "languages": ["bzs"],
+      "maintainer": "Presidência da República",
+      "access": "free",
+      "en": {
+        "name": "Lei nº 10.436/2002 — Libras Law",
+        "description": "Recognizes Libras as a legal means of communication and expression of Brazil's Deaf communities."
+      },
+      "pt-BR": {
+        "name": "Lei nº 10.436/2002 — Lei de Libras",
+        "description": "Reconhece a Libras como meio legal de comunicação e expressão das comunidades Surdas do Brasil."
+      }
+    },
+    {
+      "id": "decreto-5626",
+      "url": "https://planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm",
+      "languages": ["bzs"],
+      "maintainer": "Presidência da República",
+      "access": "free",
+      "en": {
+        "name": "Decreto nº 5.626/2005",
+        "description": "Regulates the Libras Law: Libras in schools, teacher and interpreter training, and services for Deaf people."
+      },
+      "pt-BR": {
+        "name": "Decreto nº 5.626/2005",
+        "description": "Regulamenta a Lei de Libras: Libras nas escolas, formação de professores e intérpretes, atendimento a pessoas Surdas."
+      }
+    },
+    {
+      "id": "lei-14191",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14191.htm",
+      "languages": ["bzs"],
+      "maintainer": "Presidência da República",
+      "access": "free",
+      "en": {
+        "name": "Lei nº 14.191/2021 — Bilingual Deaf education",
+        "description": "Adds bilingual Deaf education to Brazil's education law: Libras as first language, written Portuguese as second."
+      },
+      "pt-BR": {
+        "name": "Lei nº 14.191/2021 — Educação bilíngue de Surdos",
+        "description": "Inclui a educação bilíngue de Surdos na lei de educação do Brasil: Libras como primeira língua e português escrito como segunda língua."
+      }
+    },
+    {
+      "id": "hand-talk",
+      "url": "https://www.handtalk.me/br/aplicativo/",
+      "languages": ["bzs", "ase"],
+      "maintainer": "Hand Talk",
+      "access": "free",
+      "translation": {
+        "direction": "Brazilian Portuguese to Libras (and English to ASL)",
+        "output": "avatar"
+      },
+      "en": {
+        "name": "Hand Talk App",
+        "description": "Brazilian app that translates text and speech from Portuguese into Libras with the Hugo and Maya avatars, with a dictionary and a learning path (\"Hands Up\") that the company says is made by Deaf educators, linguists, and CODAs. Free with an optional subscription; translation is automatic."
+      },
+      "pt-BR": {
+        "name": "Hand Talk App",
+        "description": "Aplicativo brasileiro que traduz texto e voz do português para Libras com os avatares Hugo e Maya, e tem dicionário e trilha de atividades (\"Hands Up\"), que a empresa diz ser feita por educadores e linguistas Surdos e CODAs. É gratuito, com assinatura opcional; a tradução é automática."
+      }
+    }
+  ]
+}

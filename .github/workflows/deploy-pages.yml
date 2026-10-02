@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+      - name: Validate content before publishing
+        run: python3 tools/build.py --check
       - name: Configure Pages
         id: pages
         uses: actions/configure-pages@v5
